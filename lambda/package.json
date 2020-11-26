@@ -1,0 +1,15 @@
+{
+  "name": "gdq-lambda",
+  "version": "0.1.0",
+  "description": "Games Done Quick schedule Alexa skill Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jessica Kelsall",
+  "license": "WTFPL",
+  "dependencies": {
+    "moment-timezone": "^0.5.13",
+    "request": "^2.81.0"
+  }
+}

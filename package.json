@@ -1,0 +1,31 @@
+{
+  "name": "games-done-quick",
+  "version": "0.1.0",
+  "description": "Games Done Quick schedule tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd lambda; rm gdq-lambda.zip; zip -r gdq-lambda.zip index.js node_modules; cd .."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesskelsall/games-done-quick.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cheerio"
+  ],
+  "author": "Jessica Kelsall",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/jessicakelsall/games-done-quick/issues"
+  },
+  "homepage": "https://github.com/jessicakelsall/games-done-quick#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "moment": "^2.18.1",
+    "mongoose": "4.10.8",
+    "request": "^2.81.0"
+  }
+}

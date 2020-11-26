@@ -1,0 +1,37 @@
+GetCurrentRun what's on
+GetCurrentRun what's on now
+GetCurrentRun what game is this
+GetCurrentRun what game is being played now
+GetCurrentRun what run is this
+GetCurrentRun what run is being played now
+GetNextRun what's on next
+GetNextRun what's on after this run
+GetNextRun what's on after this game
+GetNextRun what run is on next
+GetNextRun what game is on next
+GetNextRun when does the next run start
+GetNextRun when does the next game start
+GetRunAtTime what's on at {Time}
+GetRunAtTime what's on {Date} at {Time}
+GetRunAtTime what's on at {Time} {Date}
+GetRunAtTime what run is on at {Time}
+GetRunAtTime what run is on {Date} at {Time}
+GetRunAtTime what run is on at {Time} {Date}
+GetRunAtTime which run is on at {Time}
+GetRunAtTime which run is on {Date} at {Time}
+GetRunAtTime which run is on at {Time} {Date}
+GetRunAtTime what game is on at {Time}
+GetRunAtTime what game is on {Date} at {Time}
+GetRunAtTime what game is on at {Time} {Date}
+GetRunAtTime which game is on at {Time}
+GetRunAtTime which game is on {Date} at {Time}
+GetRunAtTime which game is on at {Time} {Date}
+GetRunAtTime which game is being ran at {Time}
+GetRunAtTime which game is being ran on {Date} at {Time}
+GetRunAtTime which game is being ran at {Time} {Date}
+GetRunAtTime at {Time} which run will be on
+GetRunAtTime at {Time} {Date} which run will be on
+GetRunAtTime at {Time} which game will be on
+GetRunAtTime at {Time} {Date} which game will be on
+GetRunAtTime at {Time} which game will be being ran
+GetRunAtTime at {Time} {Date} which game will be being ran

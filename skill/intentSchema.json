@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {
+      "intent": "GetCurrentRun"
+    },
+    {
+      "intent": "GetNextRun"
+    },
+    {
+      "intent": "GetRunAtTime",
+      "slots": [
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "Time",
+          "type": "AMAZON.TIME"
+        }
+      ]
+    }
+  ]
+}
